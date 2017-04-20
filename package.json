@@ -1,0 +1,23 @@
+{
+  "name": "hello-expressjs",
+  "version": "1.0.0",
+  "description": "A sample express.js application that can be deployed to Skyliner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylinerhq/hello-expressjs.git"
+  },
+  "author": "Dan McKinley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skylinerhq/hello-expressjs/issues"
+  },
+  "homepage": "https://github.com/skylinerhq/hello-expressjs#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "morgan": "^1.8.1"
+  }
+}
